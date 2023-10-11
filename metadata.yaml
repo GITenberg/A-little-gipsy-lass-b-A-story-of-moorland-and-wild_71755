@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '9704'
     url: http://www.gutenberg.org/2009/agents/9704
     wikipedia: https://en.wikipedia.org/wiki/William_Rainey
+covers:
+- cover_type: archival
+  image_path: 71755-h/images/cover.jpg
 creator:
   author:
     agent_name: Stables, Gordon
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4164
     wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71755#A-little-gipsy-lass-b-A-story-of-moorland-and-wild
 gutenberg_issued: '2023-09-29'
 identifiers:
   gutenberg: '71755'
